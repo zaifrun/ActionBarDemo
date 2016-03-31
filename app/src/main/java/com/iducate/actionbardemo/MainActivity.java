@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		getActionBar().setHomeButtonEnabled(true);
+		getActionBar().setHomeButtonEnabled(true); //this means we can click "home"
 	}
 
 	@Override
@@ -30,19 +30,13 @@ public class MainActivity extends Activity {
 	//it is in the actionbar or in the overflow menu.
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		if (item.getItemId()==R.id.item_about)
-		{
-			
-		}
-		else if (item.getItemId()==R.id.item_delete)
-		{
-			
-		}
+
 		switch (item.getItemId()) {
+
 		case android.R.id.home:
 			Toast.makeText(this, "Application icon clicked!",
 					Toast.LENGTH_SHORT).show();
-			return true;
+			return true; //return true, means we have handled the event
 		case R.id.item_about:
 			Toast.makeText(this, "About item clicked!", Toast.LENGTH_SHORT)
 					.show();
@@ -61,7 +55,7 @@ public class MainActivity extends Activity {
 			return true;
 		}
 
-		return false;
+		return false; //we did not handle the event
 	}
 
 }

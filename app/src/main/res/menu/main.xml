@@ -3,7 +3,7 @@
     <item
         android:id="@+id/item_help"
         android:icon="@android:drawable/ic_menu_help"
-        android:showAsAction="ifRoom"
+        android:showAsAction="always"
         android:title="Help"/>
     <item
         android:id="@+id/item_about"
@@ -17,7 +17,7 @@
     
     <item
         android:id="@+id/item_delete"
-        android:showAsAction="never"
+        android:showAsAction="ifRoom"
         android:title="Delete"/>
 
 </menu>
