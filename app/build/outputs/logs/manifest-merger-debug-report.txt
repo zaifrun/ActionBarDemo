@@ -17,7 +17,7 @@ ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml
@@ -28,7 +28,7 @@ MERGED from [com.android.support:support-v4:21.0.3] C:\Users\makn\AndroidStudioP
 		INJECTED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml:11:5-25:19
-MERGED from [com.android.support:support-v4:21.0.3] C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\makn\AndroidStudioProjects\course2016\ActionBarDemo\app\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
