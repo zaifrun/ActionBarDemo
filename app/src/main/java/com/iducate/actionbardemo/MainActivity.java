@@ -12,7 +12,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-
+		//Note if you extend AppCompatActivity
+		//you need to call getSupportActionBar instead
 		getActionBar().setHomeButtonEnabled(true); //this means we can click "home"
 	}
 
