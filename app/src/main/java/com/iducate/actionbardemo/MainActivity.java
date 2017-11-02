@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//Note if you extend AppCompatActivity
 		//you need to call getSupportActionBar instead
+		//but in this case we just extend Activity instead of
+		//AppCompatActivity
 		getActionBar().setHomeButtonEnabled(true); //this means we can click "home"
 	}
 
